@@ -270,3 +270,59 @@ margin-top: 25%;
 }
 
 /* end */
+
+/* Responsive Design */
+@media (max-width: 400px) {
+  .main-container {
+    width: 90%;
+    height: auto;
+    padding: 15px;
+  }
+
+  .app-title {
+    font-size: 36px;
+    top: -120px;
+  }
+
+  .city-input {
+    padding: 8px 12px;
+    font-size: 14px;
+    padding-right: 40px;
+  }
+
+  .forecast-items-container {
+    gap: 10px;
+  }
+
+  .forecast-item {
+    min-width: 60px;
+    padding: 8px;
+  }
+
+  .forecast-item-img {
+    width: 30px;
+  }
+
+  .weather-summary-img {
+    width: 90px;
+    height: 90px;
+  }
+
+  .temp-txt {
+    font-size: 28px;
+  }
+
+  .condition-txt {
+    font-size: 16px;
+  }
+
+  .condition-item span {
+    font-size: 24px;
+  }
+
+  .app-watermark {
+    font-size: 12px;
+    right: 5px;
+    bottom: 5px;
+  }
+}
