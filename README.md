@@ -65,7 +65,9 @@ weather-app/
 ├── style.css
 ├── script.js
 └── assets/
-    └── favicon/, message/,weather/ etc.
+    └── favicon/
+    └── message/
+    └── weather/ 
 ```
 
 ---
