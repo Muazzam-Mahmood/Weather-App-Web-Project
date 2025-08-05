@@ -8,13 +8,6 @@
   <b>Modern Weather Forecast App 🌦️ – built with HTML, CSS, and JavaScript</b><br/>
   <i>Displays real-time weather and future forecast with smooth UI interactions and mobile-friendly design.</i>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/license/yourusername/weather-app?style=flat-square"/>
-  <img src="https://img.shields.io/github/languages/top/yourusername/weather-app?style=flat-square"/>
-  <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square"/>
-</p>
-
 ---
 
 ## ✨ Features
@@ -88,7 +81,7 @@ No formal license restrictions — just give credit where it’s due if you find
 
 ## 👨‍💻 Author
 
-Made with ❤️ by [Muazzzam Mahmood](https://github.com/Muazzam-Mahmood)
+Made  by [Muazzzam Mahmood](https://github.com/Muazzam-Mahmood)
 
 > ☁️ Feel free to give a ⭐ if you like this project!
 
