@@ -49,14 +49,13 @@ This app uses OpenWeatherMap API.
 
 1. Create a free account: https://home.openweathermap.org/users/sign_up  
 2. Go to **API Keys** and copy your key  
-3. Replace `f9162a8ac05880a9e04dabe02c38be3f` in the code with your actual key
+3. Replace `YOUR_API_KEY` in the code with your actual key
 
 ```js
-const apiKey = "f9162a8ac05880a9e04dabe02c38be3f";
+const apiKey = "YOUR_API_KEY";
 ```
 
 ---
-
 ## 📁 Folder Structure
 
 ```
