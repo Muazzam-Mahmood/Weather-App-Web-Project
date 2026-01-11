@@ -13,9 +13,8 @@
 ## ✨ Features
 
 - 🌍 Search weather by city 
-- 📅 Shows **only future forecast**
-- 🚫 Today’s forecast is **unclickable**
-- 💡 Click forecast to expand; click again to return
+- 📅 Shows **today's forecast**
+- 🚫 future forecast is **unclickable**
 - 🕐 Auto-refreshes data every hour
 - 📱 Responsive & clean UI
 - 📦 Offline support with caching
